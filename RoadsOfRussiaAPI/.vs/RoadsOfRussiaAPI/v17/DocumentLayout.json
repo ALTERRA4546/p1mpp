@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99367E52-D8CF-F1F8-02A1-4A7BA1287176}|RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C 01\\roadsofrussiaapi\\roadsofrussiaapi\\controllers\\mobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99367E52-D8CF-F1F8-02A1-4A7BA1287176}|RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj|solutionrelative:roadsofrussiaapi\\controllers\\mobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99367E52-D8CF-F1F8-02A1-4A7BA1287176}|RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C 01\\roadsofrussiaapi\\roadsofrussiaapi\\controllers\\model\\eventsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99367E52-D8CF-F1F8-02A1-4A7BA1287176}|RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj|solutionrelative:roadsofrussiaapi\\controllers\\model\\eventsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsModel.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\Controllers\\Model\\EventsModel.cs",
+              "RelativeDocumentMoniker": "RoadsOfRussiaAPI\\Controllers\\Model\\EventsModel.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\Controllers\\Model\\EventsModel.cs",
+              "RelativeToolTip": "RoadsOfRussiaAPI\\Controllers\\Model\\EventsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:47:39.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MobileController.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\Controllers\\MobileController.cs",
+              "RelativeDocumentMoniker": "RoadsOfRussiaAPI\\Controllers\\MobileController.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\Controllers\\MobileController.cs",
+              "RelativeToolTip": "RoadsOfRussiaAPI\\Controllers\\MobileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:50:38.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

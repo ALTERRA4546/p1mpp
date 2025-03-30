@@ -1,0 +1,24 @@
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\bin\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.deps.json
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\bin\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\bin\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.pdb
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.AssemblyInfo.cs
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\refint\RoadsOfRussiaAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.pdb
+C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\ref\RoadsOfRussiaAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\bin\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.deps.json
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\bin\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\bin\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.pdb
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\refint\RoadsOfRussiaAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\RoadsOfRussiaAPI.ServiceDefaults.pdb
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.ServiceDefaults\obj\Debug\net8.0\ref\RoadsOfRussiaAPI.ServiceDefaults.dll

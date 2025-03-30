@@ -1,0 +1,345 @@
+[
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "AddTemporaryAbsenceCalendar",
+    "RelativePath": "api/Desktop/AddCalendar/TemporaryAbsenceCalendar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calendar",
+        "Type": "RoadsOfRussiaAPI.Controllers.Model.AddCalendarModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "AddTraningCalendar",
+    "RelativePath": "api/Desktop/AddCalendar/TraningCalendar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calendar",
+        "Type": "RoadsOfRussiaAPI.Controllers.Model.AddCalendarModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "AddVacationCalendar",
+    "RelativePath": "api/Desktop/AddCalendar/VacationCalendar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calendar",
+        "Type": "RoadsOfRussiaAPI.Controllers.Model.AddCalendarModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "GetTemporaryAbsenceCalendar",
+    "RelativePath": "api/Desktop/Calendar/TemporaryAbsenceCalendar/{employeeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "GetTraningCalendar",
+    "RelativePath": "api/Desktop/Calendar/TraningCalendar/{employeeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "GetVacationCalendar",
+    "RelativePath": "api/Desktop/Calendar/VacationCalendar/{employeeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "GetDivision",
+    "RelativePath": "api/Desktop/DivisionEmployees/{divisionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "divisionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "FiredEmployee",
+    "RelativePath": "api/Desktop/FiredEmployee/{employeeId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "GetFirstDivision",
+    "RelativePath": "api/Desktop/FirstDivisions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "GetEmployeesByDivision",
+    "RelativePath": "api/Desktop/GetEmployees/{divisionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "divisionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "GetPost",
+    "RelativePath": "api/Desktop/Posts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "RemoveTemporaryAbsenceCalendar",
+    "RelativePath": "api/Desktop/RemoveCalendar/TemporaryAbsenceCalendar/{calendarId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calendarId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "RemoveTraningCalendar",
+    "RelativePath": "api/Desktop/RemoveCalendar/TraningCalendar/{calendarId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calendarId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "RemoveVacationCalendar",
+    "RelativePath": "api/Desktop/RemoveCalendar/VacationCalendar/{calendarId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calendarId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DesktopController",
+    "Method": "SaveEmployee",
+    "RelativePath": "api/Desktop/SaveEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requset",
+        "Type": "RoadsOfRussiaAPI.Controllers.Model.SaveEmployeeModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.MobileController",
+    "Method": "GetEvents",
+    "RelativePath": "api/Mobile/Events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.MobileController",
+    "Method": "GetNews",
+    "RelativePath": "api/Mobile/News",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.MobileController",
+    "Method": "NewsNegativeVote",
+    "RelativePath": "api/Mobile/News/NegativeVote/{newsId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.MobileController",
+    "Method": "NewsPositiveVote",
+    "RelativePath": "api/Mobile/News/PositiveVote/{newsId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DocumentsController",
+    "Method": "GetDocuments",
+    "RelativePath": "api/v1/Documents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DocumentsController",
+    "Method": "SetComment",
+    "RelativePath": "api/v1/Documents/{documentId}/Comment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "RoadsOfRussiaAPI.Controllers.Model.CommentContextModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DocumentsController",
+    "Method": "GetComment",
+    "RelativePath": "api/v1/Documents/{documentId}/Comments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RoadsOfRussiaAPI.Controllers.DocumentsController",
+    "Method": "Authorization",
+    "RelativePath": "api/v1/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RoadsOfRussiaAPI.Controllers.Model.AuthorizationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

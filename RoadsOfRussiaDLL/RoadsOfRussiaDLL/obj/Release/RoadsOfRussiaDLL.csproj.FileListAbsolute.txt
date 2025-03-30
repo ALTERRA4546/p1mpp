@@ -1,0 +1,9 @@
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\obj\Release\RoadsOfRussiaDLL.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\obj\Release\RoadsOfRussiaDLL.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\bin\Release\RoadsOfRussiaDLL.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\bin\Release\RoadsOfRussiaDLL.pdb
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\bin\Release\Newtonsoft.Json.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\bin\Release\Newtonsoft.Json.xml
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\obj\Release\RoadsOfR.5F51F25C.Up2Date
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\obj\Release\RoadsOfRussiaDLL.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaDLL\RoadsOfRussiaDLL\obj\Release\RoadsOfRussiaDLL.pdb
