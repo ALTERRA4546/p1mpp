@@ -1,0 +1,72 @@
+﻿<Window x:Class="RoadsOfRussiaWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RoadsOfRussiaWPF"
+        mc:Ignorable="d"
+        Title="Главное окно" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.ColumnSpan="2" Background="#78B24B">
+            <Image Source="/Logo.png" Margin="5,2,2,2" HorizontalAlignment="Left"/>
+            <Border Background="White" Margin="35,5,200,5" CornerRadius="5"/>
+            <TextBlock Text="Организационная структура" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="50,0,0,0"/>
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="0">
+            <TreeView x:Name="DivisionTreeView" SelectedItemChanged="DivisionTreeView_SelectedItemChanged"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <ListView x:Name="EmployeeListView" d:ItemsSource="{d:SampleData ItemCount=5}" MouseDoubleClick="EmployeeListView_MouseDoubleClick">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding Fired}" Value="true">
+                                <Setter Property="Background" Value="Gray"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding Fired}" Value="false">
+                                <Setter Property="Background" Value="#78B24B"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Width="350" HorizontalAlignment="Stretch">
+                            <StackPanel Margin="5">
+                                <WrapPanel>
+                                    <TextBlock Text="{Binding Division}"/>
+                                    <TextBlock Text=" - "/>
+                                    <TextBlock Text="{Binding Post}"/>
+                                </WrapPanel>
+                                <WrapPanel>
+                                    <TextBlock Text="{Binding Surname}" FontSize="16"/>
+                                    <TextBlock Text=" " FontSize="16"/>
+                                    <TextBlock Text="{Binding Name}" FontSize="16"/>
+                                    <TextBlock Text=" " FontSize="16"/>
+                                    <TextBlock Text="{Binding Patronymic}" FontSize="16"/>
+                                </WrapPanel>
+                                <WrapPanel>
+                                    <TextBlock Text="{Binding CorpPhone}" FontSize="14"/>
+                                    <TextBlock Text=" " FontSize="14"/>
+                                    <TextBlock Text="{Binding Email}" FontSize="14"/>
+                                </WrapPanel>
+                                <TextBlock Text="{Binding Cabinet}"/>
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button x:Name="AddEmployee" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,0" Width="35" Height="35" Content="➕" Click="AddEmployee_Click"/>
+        </Grid>
+    </Grid>
+</Window>

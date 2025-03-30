@@ -1,0 +1,46 @@
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaWPF.exe.config
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaWPF.exe
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaWPF.pdb
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\App.g.cs
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF_MarkupCompile.cache
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF_MarkupCompile.lref
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\MainWindow.baml
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.g.resources
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.Properties.Resources.resources
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.csproj.GenerateResource.cache
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfR.EFBFED6F.Up2Date
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.exe
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.pdb
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddOrRemoveEmployee.g.cs
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddOrRemoveEmployee.baml
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddCalendar.g.cs
+C:\Users\King Night\Desktop\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddCalendar.baml
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaWPF.exe.config
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaWPF.exe
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaWPF.pdb
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaDLL.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\bin\Debug\RoadsOfRussiaDLL.pdb
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddCalendar.g.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddOrRemoveEmployee.g.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\App.g.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF_MarkupCompile.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF_MarkupCompile.lref
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddCalendar.baml
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\AddOrRemoveEmployee.baml
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\MainWindow.baml
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.g.resources
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.Properties.Resources.resources
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.csproj.GenerateResource.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfR.EFBFED6F.Up2Date
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.exe
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaWPF\RoadsOfRussiaWPF\obj\Debug\RoadsOfRussiaWPF.pdb
