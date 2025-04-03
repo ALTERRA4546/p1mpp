@@ -2551,11 +2551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
+      "projectUniqueName": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
       "projectName": "RoadsOfRussiaAPI.ServiceDefaults",
-      "projectPath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
+      "projectPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
       "packagesPath": "C:\\Users\\King Night\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\obj\\",
+      "outputPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

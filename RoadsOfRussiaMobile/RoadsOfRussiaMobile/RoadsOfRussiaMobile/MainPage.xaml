@@ -14,7 +14,7 @@
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
                         <Grid WidthRequest="{Binding Source={x:Reference NewsCollectionView}, Path=Width}" HeightRequest="{Binding Source={x:Reference NewsCollectionView}, Path=Height}">
-                            <Frame Background="Green" CornerRadius="20" HasShadow="true" Margin="10">
+                            <Frame Background="#78B24B" CornerRadius="20" HasShadow="true" Margin="10">
                                 <Grid>
                                     <Grid.RowDefinitions>
                                         <RowDefinition Height="*"/>
@@ -23,7 +23,7 @@
                                     <StackLayout Grid.Row="0">
                                         <Image Source="{Binding Image}" HeightRequest="200"/>
                                         <Label Text="{Binding Title}" HorizontalOptions="Center"/>
-                                        <Label Text="{Binding Description}"/>
+                                        <Label Text="{Binding Description}" HeightRequest="{Binding Source={x:Reference NewsCollectionView}, Path=Height}"/>
                                     </StackLayout>
                                     <Grid Grid.Row="1" VerticalOptions="End">
                                         <Grid.ColumnDefinitions>
@@ -31,8 +31,9 @@
                                             <ColumnDefinition Width="*"/>
                                         </Grid.ColumnDefinitions>
                                         <StackLayout Grid.Column="0" Orientation="Horizontal" HorizontalOptions="Start">
+                                            <Label Text="+"/>
                                             <Label Text="{Binding PositiveVote}"/>
-                                            <Label Text=" "/>
+                                            <Label Text=" -"/>
                                             <Label Text="{Binding NegativeVote}"/>
                                         </StackLayout>
                                         <StackLayout Grid.Column="1" Orientation="Horizontal" HorizontalOptions="End">
@@ -52,7 +53,7 @@
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
                         <Grid>
-                            <Frame Background="green" CornerRadius="20" HasShadow="True" Margin="10">
+                            <Frame Background="#78B24B" CornerRadius="20" HasShadow="True" Margin="10">
                                 <Grid>
                                     <Grid.RowDefinitions>
                                         <RowDefinition Height="*"/>

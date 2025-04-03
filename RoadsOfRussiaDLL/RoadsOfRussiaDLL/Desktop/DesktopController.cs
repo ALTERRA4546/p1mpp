@@ -20,7 +20,7 @@ namespace RoadsOfRussiaDLL.Desktop
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var employees = JsonConvert.DeserializeObject<List<EmployeeSelectedModel>>(response);
-                return employees ?? new List<EmployeeSelectedModel>();
+                return employees;
             }
         }
 
@@ -30,6 +30,7 @@ namespace RoadsOfRussiaDLL.Desktop
             using (var client = new HttpClient())
             {
                 var response = await client.GetAsync("http://localhost:5246/api/Desktop/FirstDivisions");
+
                 if (response.IsSuccessStatusCode)
                 {
                     var json = await response.Content.ReadAsStringAsync();
@@ -48,7 +49,7 @@ namespace RoadsOfRussiaDLL.Desktop
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var post = JsonConvert.DeserializeObject<List<PostModel>>(response);
-                return post ?? new List<PostModel>();
+                return post;
             }
         }
 
@@ -61,7 +62,7 @@ namespace RoadsOfRussiaDLL.Desktop
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var post = JsonConvert.DeserializeObject<List<DivisionEmployeeModel>>(response);
-                return post ?? new List<DivisionEmployeeModel>();
+                return post;
             }
         }
 
@@ -74,7 +75,7 @@ namespace RoadsOfRussiaDLL.Desktop
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var calendar = JsonConvert.DeserializeObject<List<CalandarModel>>(response);
-                return calendar ?? new List<CalandarModel>();
+                return calendar;
             }
         }
 
@@ -87,7 +88,7 @@ namespace RoadsOfRussiaDLL.Desktop
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var calendar = JsonConvert.DeserializeObject<List<CalandarModel>>(response);
-                return calendar ?? new List<CalandarModel>();
+                return calendar;
             }
         }
 
@@ -100,7 +101,7 @@ namespace RoadsOfRussiaDLL.Desktop
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var calendar = JsonConvert.DeserializeObject<List<CalandarModel>>(response);
-                return calendar ?? new List<CalandarModel>();
+                return calendar;
             }
         }
 

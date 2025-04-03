@@ -21,3 +21,13 @@ C:\Users\King Night\Desktop\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussi
 C:\Users\King Night\Desktop\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.dll
 C:\Users\King Night\Desktop\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\refint\RoadsOfRussiaMobile.dll
 C:\Users\King Night\Desktop\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.pdb
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.AssemblyInfo.cs
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\refint\RoadsOfRussiaMobile.dll
+C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaMobile\RoadsOfRussiaMobile\RoadsOfRussiaMobile\obj\Debug\netstandard2.0\RoadsOfRussiaMobile.pdb

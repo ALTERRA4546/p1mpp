@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj": {}
+    "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj": {
+    "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj",
+        "projectUniqueName": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj",
         "projectName": "RoadsOfRussiaAPI.AppHost",
-        "projectPath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj",
+        "projectPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\RoadsOfRussiaAPI.AppHost.csproj",
         "packagesPath": "C:\\Users\\King Night\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\obj\\",
+        "outputPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

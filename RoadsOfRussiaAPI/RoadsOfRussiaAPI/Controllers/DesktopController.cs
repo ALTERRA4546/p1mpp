@@ -28,6 +28,11 @@ namespace RoadsOfRussiaAPI.Controllers
                     .Include(d => d.Division1)
                     .ToListAsync();
 
+                if (divisions.Count == 0)
+                {
+                    return NotFound(new { Message = "Division not found" });
+                }
+
                 return Ok(divisions.FirstOrDefault());
             }
             catch (Exception ex)
@@ -49,7 +54,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (selectedDivision == null)
                 {
-                    return NotFound(new { Message = "Division not found" });
+                    return NotFound(new { Message = "Employees not found" });
                 }
 
                 var employeeSelecteds = await GetEmployees(selectedDivision);
@@ -146,6 +151,11 @@ namespace RoadsOfRussiaAPI.Controllers
                                            OtherInformation = employee.OtherInformaion
                                        }).ToListAsync();
 
+                if (employees.Count == 0)
+                {
+                    return NotFound(new { Message = "Employee not found" });
+                }
+
                 return Ok(employees);
             }
             catch (Exception ex)
@@ -162,9 +172,9 @@ namespace RoadsOfRussiaAPI.Controllers
             {
                 var post = await database.Post.ToListAsync();
 
-                if (post == null)
+                if (post.Count == 0)
                 {
-                    return BadRequest();
+                    return NotFound(new { Message = "Post not found" });
                 }
 
                 return Ok(post);
@@ -191,7 +201,7 @@ namespace RoadsOfRussiaAPI.Controllers
             }
             else
             {
-                return BadRequest();
+                return NotFound(new { Message = "Employee not found" });
             }
         }
 
@@ -231,7 +241,7 @@ namespace RoadsOfRussiaAPI.Controllers
                     }
                     else
                     {
-                        return BadRequest();
+                        return NotFound(new { Message = "Employee not found" });
                     }
                 }
                 else
@@ -287,9 +297,9 @@ namespace RoadsOfRussiaAPI.Controllers
                                           EndDate = traningCalendar.EndDate,
                                       }).ToListAsync();
 
-                if (calendar == null)
+                if (calendar.Count == 0)
                 {
-                    return BadRequest();
+                    return NotFound(new { Message = "Calendar not found" });
                 }
 
                 return Ok(calendar);
@@ -317,9 +327,9 @@ namespace RoadsOfRussiaAPI.Controllers
                                           EndDate = vacationCalendar.EndDate,
                                       }).ToListAsync();
 
-                if (calendar == null)
+                if (calendar.Count == 0)
                 {
-                    return BadRequest();
+                    return NotFound(new { Message = "Calendar not found" });
                 }
 
                 return Ok(calendar);
@@ -347,9 +357,9 @@ namespace RoadsOfRussiaAPI.Controllers
                                           EndDate = temporaryAbsenceCalendar.EndDate,
                                       }).ToListAsync();
 
-                if (calendar == null)
+                if (calendar.Count == 0)
                 {
-                    return BadRequest();
+                    return NotFound(new { Message = "Calendar not found" });
                 }
 
                 return Ok(calendar);
@@ -368,16 +378,15 @@ namespace RoadsOfRussiaAPI.Controllers
             {
                 var removeCalendar = await database.TraningCalendar.FirstOrDefaultAsync(x => x.IDTraningCalendar == calendarId);
 
-                if (removeCalendar != null)
+                if (removeCalendar == null)
                 {
-                    database.TraningCalendar.Remove(removeCalendar);
-
-                    await database.SaveChangesAsync();
-
-                    return Ok();
+                    return NotFound(new { Message = "Calendar not found" });
                 }
 
-                return BadRequest();
+                database.TraningCalendar.Remove(removeCalendar);
+                await database.SaveChangesAsync();
+
+                return Ok();
             }
             catch (Exception ex)
             {
@@ -392,16 +401,15 @@ namespace RoadsOfRussiaAPI.Controllers
             {
                 var removeCalendar = await database.VacationCalendar.FirstOrDefaultAsync(x => x.IDVacationCalendar == calendarId);
 
-                if (removeCalendar != null)
+                if (removeCalendar == null)
                 {
-                    database.VacationCalendar.Remove(removeCalendar);
-
-                    await database.SaveChangesAsync();
-
-                    return Ok();
+                    return NotFound(new { Message = "Calendar not found" });
                 }
 
-                return BadRequest();
+                database.VacationCalendar.Remove(removeCalendar);
+                await database.SaveChangesAsync();
+
+                return Ok();
             }
             catch (Exception ex)
             {
@@ -416,16 +424,15 @@ namespace RoadsOfRussiaAPI.Controllers
             {
                 var removeCalendar = await database.TemporaryAbsenceCalendar.FirstOrDefaultAsync(x => x.IDTemporaryAbsenceCalendar == calendarId);
 
-                if (removeCalendar != null)
+                if (removeCalendar == null)
                 {
-                    database.TemporaryAbsenceCalendar.Remove(removeCalendar);
-
-                    await database.SaveChangesAsync();
-
-                    return Ok();
+                    return NotFound(new { Message = "Calendar not found" });
                 }
 
-                return BadRequest();
+                database.TemporaryAbsenceCalendar.Remove(removeCalendar);
+                await database.SaveChangesAsync();
+
+                return Ok();
             }
             catch (Exception ex)
             {

@@ -58,6 +58,7 @@
     <Compile Include="Document\Model\CommentModel.cs" />
     <Compile Include="Document\Model\DocumentsModel.cs" />
     <Compile Include="Document\Model\ErrorModel.cs" />
+    <Compile Include="Document\Model\JwtTokenModel.cs" />
     <Compile Include="Mobile\MobileController.cs" />
     <Compile Include="Mobile\Model\EventsModel.cs" />
     <Compile Include="Mobile\Model\NewsModel.cs" />

@@ -36,6 +36,11 @@ namespace RoadsOfRussiaAPI.Controllers
                                           Date = news.Date,
                                       }).ToListAsync();
 
+                if (newsData.Count == 0)
+                {
+                    return NotFound(new { Message = "News not found" });
+                }
+
                 return Ok(newsData);
             }
             catch (Exception ex)
@@ -62,7 +67,7 @@ namespace RoadsOfRussiaAPI.Controllers
                 }
                 else
                 {
-                    return BadRequest();
+                    return NotFound(new { Message = "News not found" });
                 }
             }
             catch (Exception ex)
@@ -89,7 +94,7 @@ namespace RoadsOfRussiaAPI.Controllers
                 }
                 else
                 {
-                    return BadRequest();
+                    return NotFound(new { Message = "News not found" });
                 }
             }
             catch (Exception ex)
@@ -115,6 +120,11 @@ namespace RoadsOfRussiaAPI.Controllers
                                             Date = events.StartDate,
                                             Author = employee.Surname + " " + employee.Name + " " + employee.Patronimyc
                                         }).ToListAsync();
+
+                if (eventsData.Count == 0)
+                {
+                    return NotFound(new { Message = "Events not found" });
+                }
 
                 return Ok(eventsData);
             }

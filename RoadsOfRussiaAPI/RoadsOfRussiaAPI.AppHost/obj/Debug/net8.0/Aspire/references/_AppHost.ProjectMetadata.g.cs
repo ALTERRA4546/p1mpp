@@ -8,5 +8,5 @@ namespace Projects;
 public class RoadsOfRussiaAPI_AppHost
 {
     private RoadsOfRussiaAPI_AppHost() { }
-    public static string ProjectPath => """C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI.AppHost""";
+    public static string ProjectPath => """C:\Users\King Night\Desktop\RoadsOfRussiaAPI\RoadsOfRussiaAPI.AppHost""";
 }

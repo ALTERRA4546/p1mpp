@@ -19,5 +19,7 @@ namespace RoadsOfRussiaAPI.DbModel
         [Column("IDEmployee")]
         [MaybeNull]
         public int IDEmployee { get; set; }
+        [MaybeNull]
+        public int? IDEvent { get; set; }
     }
 }

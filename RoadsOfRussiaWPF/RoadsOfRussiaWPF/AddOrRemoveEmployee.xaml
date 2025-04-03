@@ -63,7 +63,7 @@
                     <TextBox x:Name="Cabinet" Margin="170,0,0,0" Width="150"/>
                 </Grid>
                 <Grid Margin="0,0,0,5">
-                    <TextBlock Text="Процая информация"/>
+                    <TextBlock Text="Прочая информация"/>
                     <TextBox x:Name="OtherInformation" Margin="170,0,0,0" Width="150"/>
                 </Grid>
                 <WrapPanel HorizontalAlignment="Left" Margin="50,0,0,0">

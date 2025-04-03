@@ -20,7 +20,7 @@ namespace RoadsOfRussiaDLL.Mobile
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var newsData = JsonConvert.DeserializeObject<List<NewsModel>>(response);
-                return newsData ?? new List<NewsModel>();
+                return newsData;
             }
         }
 
@@ -33,7 +33,7 @@ namespace RoadsOfRussiaDLL.Mobile
                 var response = await httpClient.GetStringAsync(apiUrl);
 
                 var eventsData = JsonConvert.DeserializeObject<List<EventsModel>>(response);
-                return eventsData ?? new List<EventsModel>();
+                return eventsData;
             }
         }
 

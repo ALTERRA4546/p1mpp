@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using RoadsOfRussiaAPI.Controllers.Model;
+using RoadsOfRussiaDLL.Document.Model;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -17,8 +18,6 @@ namespace RoadsOfRussiaDLL.Document
 {
     public class DocumentController
     {
-        private string jwtToken { get; set; }
-
         public async Task<string> Authorization(string name, string password)
         {
             try
@@ -30,20 +29,18 @@ namespace RoadsOfRussiaDLL.Document
                 {
                     var content = new StringContent(jsonData, Encoding.UTF8, "application/json");
 
-                    HttpResponseMessage response = await client.PutAsync(@"http://localhost:5246/api/v1/SignIn", content);
+                    HttpResponseMessage response = await client.PostAsync(@"http://localhost:5246/api/v1/SignIn", content);
 
                     if (response.IsSuccessStatusCode)
                     {
                         string responseData = await response.Content.ReadAsStringAsync();
-                        var tokenResponse = JsonConvert.DeserializeObject(responseData);
+                        var tokenResponse = JsonConvert.DeserializeObject<JwtTokenModel>(responseData);
 
-                        jwtToken = tokenResponse.ToString();
-                        return tokenResponse.ToString();
+                        return tokenResponse.token;
                     }
                     else
                     {
-                        string errorData = await response.Content.ReadAsStringAsync();
-                        return errorData.ToString();
+                        return null;
                     }
                 }
             }
@@ -53,7 +50,7 @@ namespace RoadsOfRussiaDLL.Document
             }
         }
 
-        public async Task<List<DocumentsModel>> GetDocuments()
+        public async Task<List<DocumentsModel>> GetDocuments(string jwtToken)
         {
             try
             {
@@ -72,7 +69,6 @@ namespace RoadsOfRussiaDLL.Document
                     }
                     else
                     {
-                        //string errorData = await response.Content.ReadAsStringAsync();
                         return null;
                     }
                 }
@@ -83,7 +79,7 @@ namespace RoadsOfRussiaDLL.Document
             }
         }
 
-        public async Task<List<CommentModel>> GetComments(int documentId)
+        public async Task<List<CommentModel>> GetComments(int documentId, string jwtToken)
         {
             try
             {
@@ -102,7 +98,6 @@ namespace RoadsOfRussiaDLL.Document
                     }
                     else
                     {
-                        //string errorData = await response.Content.ReadAsStringAsync();
                         return null;
                     }
                 }
@@ -113,7 +108,7 @@ namespace RoadsOfRussiaDLL.Document
             }
         }
 
-        public async Task<string> SetComment(int documentID, string text, int authorId)
+        public async Task<string> SetComment(int documentID, string text, int authorId, string jwtToken)
         {
             try
             {
@@ -135,8 +130,7 @@ namespace RoadsOfRussiaDLL.Document
                     }
                     else
                     {
-                        string errorData = await response.Content.ReadAsStringAsync();
-                        return errorData;
+                        return null;
                     }
                 }
             }
