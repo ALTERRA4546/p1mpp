@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1MGPOcRxHT8=",
+  "dgSpecHash": "7KnOwb8m5Ws=",
   "success": true,
-  "projectFilePath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
+  "projectFilePath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\King Night\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\King Night\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

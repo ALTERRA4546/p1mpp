@@ -149,10 +149,17 @@ namespace RoadsOfRussiaWPF
         {
             try
             {
-                AddOrRemoveEmployee addOrRemoveEmployee = new AddOrRemoveEmployee(0, selectedDivision, null);
-                addOrRemoveEmployee.ShowDialog();
+                if (selectedDivision != null)
+                {
+                    AddOrRemoveEmployee addOrRemoveEmployee = new AddOrRemoveEmployee(0, selectedDivision, null);
+                    addOrRemoveEmployee.ShowDialog();
 
-                await UpdateEmployeeList(selectedDivision.IDDivision);
+                    await UpdateEmployeeList(selectedDivision.IDDivision);
+                }
+                else
+                {
+                    MessageBox.Show("Не выбранно подразделение", "Внимание", MessageBoxButton.OK, MessageBoxImage.Warning);
+                }
             }
             catch (Exception ex)
             {

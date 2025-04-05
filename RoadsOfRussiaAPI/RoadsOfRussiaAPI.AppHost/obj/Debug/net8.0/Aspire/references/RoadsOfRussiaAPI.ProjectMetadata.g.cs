@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class RoadsOfRussiaAPI : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\King Night\Documents\GitHub Repository\p1mpp\RoadsOfRussiaAPI\RoadsOfRussiaAPI\RoadsOfRussiaAPI.csproj""";
+    public string ProjectPath => """C:\Users\King Night\Desktop\Производственная практика ПМ 01\RoadsOfRussiaAPI\RoadsOfRussiaAPI\RoadsOfRussiaAPI.csproj""";
 }

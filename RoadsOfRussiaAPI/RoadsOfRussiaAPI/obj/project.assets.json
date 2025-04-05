@@ -6058,11 +6058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
       "projectName": "RoadsOfRussiaAPI",
-      "projectPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
+      "projectPath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
       "packagesPath": "C:\\Users\\King Night\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\obj\\",
+      "outputPath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6084,8 +6084,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj": {
-              "projectPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj"
+            "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj": {
+              "projectPath": "C:\\Users\\King Night\\Desktop\\Производственная практика ПМ 01\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj"
             }
           }
         }

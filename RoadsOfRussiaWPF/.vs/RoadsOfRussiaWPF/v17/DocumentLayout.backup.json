@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\roadsofrussiawpf\\addorremoveemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|solutionrelative:roadsofrussiawpf\\addorremoveemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C 01\\roadsofrussiawpf\\roadsofrussiawpf\\addcalendar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|solutionrelative:roadsofrussiawpf\\addcalendar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\roadsofrussiawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C 01\\roadsofrussiawpf\\roadsofrussiawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|solutionrelative:roadsofrussiawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C 01\\roadsofrussiawpf\\roadsofrussiawpf\\addorremoveemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3EA438-4588-497D-BAF0-517BE820A7DA}|RoadsOfRussiaWPF\\RoadsOfRussiaWPF.csproj|solutionrelative:roadsofrussiawpf\\addorremoveemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddOrRemoveEmployee.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
-              "RelativeDocumentMoniker": "RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
-              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
-              "RelativeToolTip": "RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T19:41:40.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddCalendar.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\AddCalendar.xaml.cs",
-              "RelativeDocumentMoniker": "RoadsOfRussiaWPF\\AddCalendar.xaml.cs",
-              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\AddCalendar.xaml.cs",
-              "RelativeToolTip": "RoadsOfRussiaWPF\\AddCalendar.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:32:16.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RoadsOfRussiaWPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "RoadsOfRussiaWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAmwFUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwJEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T21:55:02.67Z",
+              "WhenOpened": "2025-04-05T20:01:08.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrRemoveEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C 01\\RoadsOfRussiaWPF\\RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
+              "RelativeToolTip": "RoadsOfRussiaWPF\\AddOrRemoveEmployee.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwFwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:41:18.695Z",
               "EditorCaption": ""
             }
           ]

@@ -109,9 +109,12 @@ namespace RoadsOfRussiaWPF
         {
             try
             {
-                TraningCalendarListView.ItemsSource = traningCalendar.Where(x => x.EndDate < DateTime.Now.Date).ToList();
-                VacationCalendarListView.ItemsSource = vacationCalendar.Where(x => x.EndDate < DateTime.Now.Date).ToList();
-                TemporaryAbsenceListView.ItemsSource = temporaryAbsenceCalendar.Where(x => x.EndDate < DateTime.Now.Date).ToList();
+                if(traningCalendar != null)
+                    TraningCalendarListView.ItemsSource = traningCalendar.Where(x => x.EndDate < DateTime.Now.Date).ToList();
+                if(vacationCalendar != null)
+                    VacationCalendarListView.ItemsSource = vacationCalendar.Where(x => x.EndDate < DateTime.Now.Date).ToList();
+                if(temporaryAbsenceCalendar != null)
+                    TemporaryAbsenceListView.ItemsSource = temporaryAbsenceCalendar.Where(x => x.EndDate < DateTime.Now.Date).ToList();
             }
             catch (Exception ex)
             {
@@ -124,9 +127,12 @@ namespace RoadsOfRussiaWPF
         {
             try
             {
-                TraningCalendarListView.ItemsSource = traningCalendar.Where(x => x.StartDate <= DateTime.Now.Date && x.EndDate >= DateTime.Now).ToList();
-                VacationCalendarListView.ItemsSource = vacationCalendar.Where(x => x.StartDate <= DateTime.Now.Date && x.EndDate >= DateTime.Now).ToList();
-                TemporaryAbsenceListView.ItemsSource = temporaryAbsenceCalendar.Where(x => x.StartDate <= DateTime.Now.Date && x.EndDate >= DateTime.Now).ToList();
+                if(traningCalendar != null)
+                    TraningCalendarListView.ItemsSource = traningCalendar.Where(x => x.StartDate <= DateTime.Now.Date && x.EndDate >= DateTime.Now).ToList();
+                if(vacationCalendar != null)
+                    VacationCalendarListView.ItemsSource = vacationCalendar.Where(x => x.StartDate <= DateTime.Now.Date && x.EndDate >= DateTime.Now).ToList();
+                if(temporaryAbsenceCalendar != null)
+                    TemporaryAbsenceListView.ItemsSource = temporaryAbsenceCalendar.Where(x => x.StartDate <= DateTime.Now.Date && x.EndDate >= DateTime.Now).ToList();
             }
             catch (Exception ex)
             {
@@ -139,9 +145,12 @@ namespace RoadsOfRussiaWPF
         {
             try
             {
-                TraningCalendarListView.ItemsSource = traningCalendar.Where(x => x.StartDate > DateTime.Now.Date).ToList();
-                VacationCalendarListView.ItemsSource = vacationCalendar.Where(x => x.StartDate > DateTime.Now.Date).ToList();
-                TemporaryAbsenceListView.ItemsSource = temporaryAbsenceCalendar.Where(x => x.StartDate > DateTime.Now.Date).ToList();
+                if(traningCalendar != null)
+                    TraningCalendarListView.ItemsSource = traningCalendar.Where(x => x.StartDate > DateTime.Now.Date).ToList();
+                if(vacationCalendar != null)
+                    VacationCalendarListView.ItemsSource = vacationCalendar.Where(x => x.StartDate > DateTime.Now.Date).ToList();
+                if(temporaryAbsenceCalendar != null)
+                    TemporaryAbsenceListView.ItemsSource = temporaryAbsenceCalendar.Where(x => x.StartDate > DateTime.Now.Date).ToList();
             }
             catch (Exception ex)
             {
@@ -168,6 +177,10 @@ namespace RoadsOfRussiaWPF
                     {
                         MessageBox.Show("Ошибка удаления события", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                     }
+                }
+                else
+                {
+                    MessageBox.Show("Событие не выбранно", "Внимание", MessageBoxButton.OK, MessageBoxImage.Warning);
                 }
             }
             catch (Exception ex)
@@ -196,6 +209,10 @@ namespace RoadsOfRussiaWPF
                         MessageBox.Show("Ошибка удаления события", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                     }
                 }
+                else
+                {
+                    MessageBox.Show("Событие не выбранно", "Внимание", MessageBoxButton.OK, MessageBoxImage.Warning);
+                }
             }
             catch (Exception ex)
             {
@@ -222,6 +239,10 @@ namespace RoadsOfRussiaWPF
                     {
                         MessageBox.Show("Ошибка удаления события", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                     }
+                }
+                else
+                {
+                    MessageBox.Show("Событие не выбранно", "Внимание", MessageBoxButton.OK, MessageBoxImage.Warning);
                 }
             }
             catch (Exception ex)

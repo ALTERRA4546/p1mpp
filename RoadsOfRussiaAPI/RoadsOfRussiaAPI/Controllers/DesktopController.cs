@@ -18,7 +18,7 @@ namespace RoadsOfRussiaAPI.Controllers
         }
 
         // Главная страница
-
+        // Получение иерархии подразделений
         [HttpGet("FirstDivisions")]
         public async Task<IActionResult> GetFirstDivision()
         {
@@ -30,7 +30,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (divisions.Count == 0)
                 {
-                    return NotFound(new { Message = "Division not found" });
+                    return Ok(null);
                 }
 
                 return Ok(divisions.FirstOrDefault());
@@ -54,7 +54,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (selectedDivision == null)
                 {
-                    return NotFound(new { Message = "Employees not found" });
+                    return Ok(null);
                 }
 
                 var employeeSelecteds = await GetEmployees(selectedDivision);
@@ -153,7 +153,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (employees.Count == 0)
                 {
-                    return NotFound(new { Message = "Employee not found" });
+                    return Ok(null);
                 }
 
                 return Ok(employees);
@@ -174,7 +174,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (post.Count == 0)
                 {
-                    return NotFound(new { Message = "Post not found" });
+                    return Ok(null);
                 }
 
                 return Ok(post);
@@ -299,7 +299,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (calendar.Count == 0)
                 {
-                    return NotFound(new { Message = "Calendar not found" });
+                    return Ok(null);
                 }
 
                 return Ok(calendar);
@@ -329,7 +329,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (calendar.Count == 0)
                 {
-                    return NotFound(new { Message = "Calendar not found" });
+                    return Ok(null);
                 }
 
                 return Ok(calendar);
@@ -359,7 +359,7 @@ namespace RoadsOfRussiaAPI.Controllers
 
                 if (calendar.Count == 0)
                 {
-                    return NotFound(new { Message = "Calendar not found" });
+                    return Ok(null);
                 }
 
                 return Ok(calendar);

@@ -44,7 +44,7 @@ namespace RoadsOfRussiaAPI.Controllers
                 return Ok(newsData);
             }
             catch (Exception ex)
-            { 
+            {
                 return BadRequest(ex.Message);
             }
         }
@@ -75,7 +75,7 @@ namespace RoadsOfRussiaAPI.Controllers
                 return BadRequest(ex.Message);
             }
         }
-        
+
         // Негативный голос
         [HttpPost("News/NegativeVote/{newsId}")]
         public async Task<IActionResult> NewsNegativeVote(int newsId)
