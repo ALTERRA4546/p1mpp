@@ -18,14 +18,15 @@ using System.Reflection;
     "ols\\ext\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\King Night\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\to" +
     "ols\\ext\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRus" +
+    "siaAPI.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "RoadsOfRussiaAPI.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\King Night\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspi" +
     "re.Dashboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoadsOfRussiaAPI.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d34628b691745a2c444796c4fdc24a782cdb5347")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoadsOfRussiaAPI.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoadsOfRussiaAPI.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

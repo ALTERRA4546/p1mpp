@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCO0OsBfOk8=",
+  "dgSpecHash": "v7bk9VT6O8w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\King Night\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\King Night\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

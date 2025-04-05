@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoadsOfRussiaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d34628b691745a2c444796c4fdc24a782cdb5347")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoadsOfRussiaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoadsOfRussiaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj": {}
+    "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj": {
+    "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
         "projectName": "RoadsOfRussiaAPI.ServiceDefaults",
-        "projectPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
+        "projectPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\King Night\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,14 +111,14 @@
         }
       }
     },
-    "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj": {
+    "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
         "projectName": "RoadsOfRussiaAPI",
-        "projectPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
+        "projectPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.csproj",
         "packagesPath": "C:\\Users\\King Night\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\obj\\",
+        "outputPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,8 +140,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj": {
-                "projectPath": "C:\\Users\\King Night\\Desktop\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj"
+              "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\King Night\\Documents\\GitHub Repository\\p1mpp\\RoadsOfRussiaAPI\\RoadsOfRussiaAPI.ServiceDefaults\\RoadsOfRussiaAPI.ServiceDefaults.csproj"
               }
             }
           }
